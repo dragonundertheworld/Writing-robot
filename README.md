@@ -2,11 +2,15 @@
 
 A modular, servo‑driven pen‑lifting module with a central support bracket, designed for CNC‑style drawing robots, whiteboard plotters, or calligraphy machines. This repository contains CAD models, dimension sheets, and documentation for each major component and its iterative design process.
 
+![writing robot](./media/writing%20robot.jpg)
+
+Video of writing ["不忘初心"](./media/不忘初心.mp4) and ["你干嘛哎呦"](./media/你干嘛哎呦.mp4)
 ---
 
 ## Table of Contents
 
 - [Robotic Pen‑Lifting Mechanism](#robotic-penlifting-mechanism)
+      - [Video of writing "不忘初心" and "你干嘛哎呦"](#video-of-writing-不忘初心-and-你干嘛哎呦)
   - [Table of Contents](#table-of-contents)
   - [Project Overview](#project-overview)
   - [Key Features](#key-features)
